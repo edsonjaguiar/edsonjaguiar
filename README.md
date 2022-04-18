@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/@edsonaguiarjunior-%23E4405F.svg?&style=width=70&for-the-badge&logo=instagram&logoColor=white"  />](https://www.instagram.com/edsonaguiarjunior/) [<img src="https://img.shields.io/badge/@EdsonAguiarJr-%231DA1F2.svg?&style=width=70&for-the-badge&logo=twitter&logoColor=white" hspace=3 />](https://twitter.com/edsonjaguiar) [<img src="https://img.shields.io/badge/@Edson Aguiar Junior-%231ED760.svg?&style=width=70&for-the-badge&logo=spotify&logoColor=white"  />](https://open.spotify.com/user/22tutsqoliplzpzqr2fa54wai)
 
 ### About me 📝
-<p>Hi there, I am a high school student, I am 16 years old. 
+<p>Hi there, I am a high school student, I am 17 years old. 
 
 I love to code in Javascript. I'll intend to get into a college to study Software Engineer. I wanna work as a Fullstack developer. </p>
 
