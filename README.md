@@ -6,7 +6,7 @@
 ### About me 📝
 <p>Hi there, I am 18 years old.
 
-I love to code in Javascript. I'll intend to get into a college to study Software Engineer. I wanna work as a Fullstack developer. </p>
+I love coding in Javascript. I am a student of electronic engineering at UTFPR. I want to work as a fullstack programmer. </p>
 
 - I am currently learning about **React**
 
