@@ -1,9 +1,12 @@
 # Hi, I'm Edson 👋
 
 
-<a href="https://www.instagram.com/edsonaguiarjunior/" target="_blank"><img src="https://img.shields.io/badge/@edsonaguiarjunior-%23E4405F?style=width=70&for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/edsonjaguiar" target="_blank"><img src="https://img.shields.io/badge/@EdsonAguiarJr-%231DA1F2?style=width=70&for-the-badge&logo=twitter&logoColor=white" hspace=3 /></a>
-<a href="https://open.spotify.com/user/22tutsqoliplzpzqr2fa54wai" target="_blank"><img src="https://img.shields.io/badge/@Edson%20Aguiar%20Junior-%231ED760?style=width=70&for-the-badge&logo=spotify&logoColor=white" /></a>
+[<img src="https://img.shields.io/badge/@edsonaguiarjunior-%23E4405F.svg?&style=width=70&for-the-badge&logo=instagram&logoColor=white"  />](https://www.instagram.com/edsonaguiarjunior/) [<img src="https://img.shields.io/badge/@EdsonAguiarJr-%231DA1F2.svg?&style=width=70&for-the-badge&logo=twitter&logoColor=white" hspace=3 />](https://twitter.com/edsonjaguiar) [<img src="https://img.shields.io/badge/@Edson Aguiar Junior-%231ED760.svg?&style=width=70&for-the-badge&logo=spotify&logoColor=white"  />](https://open.spotify.com/user/22tutsqoliplzpzqr2fa54wai)
+[<img src="https://img.shields.io/badge/@edsonaguiarjunior-%23E4405F.svg?&style=width=70&for-the-badge&logo=instagram&logoColor=white" 
+  target="_blank"/>](https://www.instagram.com/edsonaguiarjunior/) 
+[<img src="https://img.shields.io/badge/@EdsonAguiarJr-%231DA1F2.svg?&style=width=70&for-the-badge&logo=twitter&logoColor=white" hspace=3 
+  target="_blank"/>](https://twitter.com/edsonjaguiar) 
+[<img src="https://img.shields.io/badge/@Edson Aguiar Junior-%231ED760.svg?&style=width=70&for-the-badge&logo=spotify&logoColor=white" /> (https://open.spotify.com/user/22tutsqoliplzpzqr2fa54wai)
 
 ### About me 📝
 <p>Hi there, I am 18 years old.
