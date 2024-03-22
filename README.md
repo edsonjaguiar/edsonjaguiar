@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/@edsonaguiarjunior-%23E4405F.svg?&style=width=70&for-the-badge&logo=instagram&logoColor=white"  />](https://www.instagram.com/edsonaguiarjunior/) [<img src="https://img.shields.io/badge/@EdsonAguiarJr-%231DA1F2.svg?&style=width=70&for-the-badge&logo=twitter&logoColor=white" hspace=3 />](https://twitter.com/edsonjaguiar) [<img src="https://img.shields.io/badge/@Edson Aguiar Junior-%231ED760.svg?&style=width=70&for-the-badge&logo=spotify&logoColor=white"  />](https://open.spotify.com/user/22tutsqoliplzpzqr2fa54wai)
 
 ### About me 📝
-<p>Hi there, I am 18 years old.
+<p>Hi there, I am 19 years old.
 
 I love coding in Javascript. I am a undergraduate student of electronic engineering at UTFPR. I want to work as a fullstack programmer. </p>
 
