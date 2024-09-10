@@ -1,8 +1,5 @@
 # Hi, I'm Edson 👋
 
-
-[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=width=70&for-the-badge&logo=spotify&logoColor=white"  />](https://open.spotify.com/user/22tutsqoliplzpzqr2fa54wai)
-
 ### About me 📝
 <p>Hi there, I am 19 years old.
 
