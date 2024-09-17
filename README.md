@@ -20,9 +20,3 @@
   <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
   <img src="https://img.shields.io/badge/zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 </p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edsonjaguiar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
