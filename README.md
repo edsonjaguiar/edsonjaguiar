@@ -51,8 +51,8 @@ I'm **not a vibe coder** — I use AI as a tool to eliminate repetitive tasks an
 ### 📊 Statistics
 
 <div align="center">
-  <img width="49%" height="200" src="https://github-readme-stats-mu-wine-39.vercel.app/api?username=edsonjaguiar&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&border_color=333333" />
-  <img width="49%" height="200" src="https://streak-stats.demolab.com?user=edsonjaguiar&hide_border=false&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img width="49%" height="210" src="https://github-readme-stats-mu-wine-39.vercel.app/api?username=edsonjaguiar&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&border_color=333333" />
+  <img width="49%" height="210" src="https://streak-stats.demolab.com?user=edsonjaguiar&hide_border=false&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 <br/>
